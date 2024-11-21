@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .Net using C# Programming Language
 - 💞️ I’m looking to collaborate on building a massive Systems that can serve All people
 - 📫 How to reach me ...
--       LinkedIn --> www.linkedin.com/in/ezzelden-hashem
+-       www.linkedin.com/in/ezzelden-hashem
 - ⚡ Fun fact: nothing for now
 
 <!---
